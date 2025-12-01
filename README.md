@@ -27,36 +27,31 @@ A simple C program that calculates scholarship amounts based on **gender** and *
 ## 🚀 How to Run
 
 1. Clone the repository:
-
-```bash
-git clone https://github.com/Adarsh-codess/ScholarshipCalculator-C.git 
-
-2.Navigate to the project folder:
-
+git clone https://github.com/Adarsh-codess/ScholarshipCalculator-C.git
+2. Navigate to the project folder:
 cd ScholarshipCalculator-C
-
-
-3.Compile the program using GCC:
-
+3. Compile the program using GCC:
 gcc scholarship.c -o scholarship
+4. Run the program:
+./scholarship # On Windows use scholarship.exe
 
+---
 
-4.Run the program:
+## 📝 Future Improvements
+- Add loops for multiple calculations  
+- Handle invalid inputs more gracefully  
+- Convert into a GUI-based program  
+- Expand for file input/output  
+- Practice integrating into embedded system simulation
 
-./scholarship   # On Windows use scholarship.exe
+---
 
-📝 Future Improvements
+## 📈 Purpose
+This project is a **learning and practice project** for improving C programming, problem-solving, and logic skills — foundational skills for **AUTOSAR & embedded systems development**.
 
-Add loops for multiple calculations
+---
 
-Handle invalid inputs more gracefully
+## 🌟 Contact
+- GitHub: [Adarsh-codess](https://github.com/Adarsh-codess)  
+- Email: your_email@example.com
 
-Convert into a GUI-based program
-
-Expand for file input/output
-
-Practice integrating into embedded system simulation
-
-📈 Purpose
-
-This project is a learning and practice project for improving C programming, problem-solving, and logic skills — foundational skills for AUTOSAR & embedded systems development.

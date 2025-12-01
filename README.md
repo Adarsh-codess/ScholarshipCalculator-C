@@ -53,5 +53,5 @@ This project is a **learning and practice project** for improving C programming,
 
 ## 🌟 Contact
 - GitHub: [Adarsh-codess](https://github.com/Adarsh-codess)  
-- Email: your_email@example.com
+- Email: adarshbehera3003@gmail.com
 

@@ -33,7 +33,7 @@ cd ScholarshipCalculator-C
 3. Compile the program using GCC:
 gcc scholarship.c -o scholarship
 4. Run the program:
-./scholarship # On Windows use scholarship.exe
+ ./scholarship # On Windows use scholarship.exe
 
 ---
 

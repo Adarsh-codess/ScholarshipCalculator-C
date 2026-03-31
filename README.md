@@ -47,7 +47,7 @@ gcc scholarship.c -o scholarship
 ---
 
 ## 📈 Purpose
-This project is a **learning and practice project** for improving C programming, problem-solving, and logic skills — foundational skills for **AUTOSAR & embedded systems development**.
+This project is a **learning and practice project** for improving C programming, problem-solving, and logic skills — foundational skills for **embedded systems development**.
 
 ---
 
